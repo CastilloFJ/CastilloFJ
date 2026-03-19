@@ -20,8 +20,8 @@ Soy un **profesor de química** en transición al mundo del desarrollo de softwa
 
 ## 🚀 Proyectos Destacados
 
-### 🧠 [BrainFlow](https://github.com/tu-usuario/brainflow) 
-**App de Flashcards para Programadores.** Una herramienta diseñada para estudiar lenguajes de programación de forma eficiente. Construida con Django para gestionar flujos de estudio personalizados.
+### 🧠 [Eduquiz](https://github.com/tu-usuario/brainflow) 
+**App de Quiz para Programadores u Otros.** Una herramienta diseñada para estudiar lenguajes de programación de forma eficiente, pero tambien para quienes quieran incluir otros temas. Construida con JavaScript para gestionar el flujo de datos de forma simple.
 
 ### 🕹️ [Club V.J.](https://github.com/tu-usuario/club-vj)
 **Sistema de gestión para club de videojuegos.** Demo funcional que incluye manejo de inventario de renta, usuarios y lógica de préstamos.
