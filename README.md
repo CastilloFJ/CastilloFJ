@@ -18,31 +18,51 @@ Soy un **profesor de química** en transición al mundo del desarrollo de softwa
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🏆 Caso de Estudio: biblioteca_project
 
-### 🧠 [Eduquiz](https://github.com/tu-usuario/brainflow) 
-**App de Quiz para Programadores u Otros.** Una herramienta diseñada para estudiar lenguajes de programación de forma eficiente, pero tambien para quienes quieran incluir otros temas. Construida con JavaScript para gestionar el flujo de datos de forma simple.
+> *Este proyecto ha sido seleccionado como caso de estudio representativo de mi crecimiento técnico y capacidad de resolución de desafíos complejos.*
 
-### 🕹️ [Club V.J.](https://github.com/tu-usuario/club-vj)
-**Sistema de gestión para club de videojuegos.** Demo funcional que incluye manejo de inventario de renta, usuarios y lógica de préstamos.
+### 📋 Descripción y Desafío
+Sistema enfocado en la administración de socios, libros y editoriales. El **desafío principal** consistió en estructurar una base de datos relacional que permitiera gestionar un historial detallado de préstamos sin perder la integridad de la disponibilidad de títulos en tiempo real
 
-### 📊 [biblioteca_project](https://github.com/CastilloFJ/biblioteca_project)
-**Gestor de biblioteca.** Sistema enfocado en la administración y gestión de socios, libros, editoriales y el historial detallado de préstamos utilizando el potente ORM de Django.
+### 💡 Solución y Herramientas
+Utilicé el **ORM de Django** para automatizar la lógica de préstamos y devoluciones, asegurando que el estado del inventario se actualizara mediante señales (*signals*) del sistema.
+
+### 📊 Métricas de Impacto y Eficiencia
+* **Tiempo de resolución:** Desarrollo completo en solo 6 días.
+* **Mejoras funcionales:** Automatización del 100% en el seguimiento de estados de préstamos.
+* **Habilidades aplicadas:** Modelado de datos, lógica de backend en Python y metodologías ágiles.
+
+### 🎯 Justificación
+Elegí este proyecto porque demuestra mi habilidad para traducir procesos administrativos complejos en soluciones técnicas eficientes, utilizando el stack tecnológico que mejor domino.
 
 ---
 
-## 📚 Aprendizaje Actual
+## 🚀 Otros Proyectos Destacados
+
+### 🧠 [Eduquiz](https://github.com/tu-usuario/brainflow) 
+**App de Quiz Interactiva.** Herramienta diseñada para estudiar lenguajes de programación de forma eficiente. Construida con JavaScript para gestionar el flujo de datos de forma dinámica.
+* **Tiempo de desarrollo:** 12 días.
+
+### 🕹️ [Club V.J.](https://github.com/tu-usuario/club-vj)
+**Sistema de gestión para club de videojuegos.** Demo funcional que incluye manejo de inventario de renta, usuarios y lógica de préstamos.
+* **Tiempo de desarrollo:** 8 días.
+
+---
+
+## 📚 Aprendizajes y Enfoque Actual
 
 Me encuentro profundizando en tecnologías de nivel empresarial para escalar mis aplicaciones:
 
 * **Backend:** Django REST Framework (APIs Robustas).
-* **Idiomas:** Perfeccionando mi inglés técnico para colaborar en entornos globales.
+* **Principales Aprendizajes:** Documentación técnica, manejo de métricas de impacto y optimización de flujos de trabajo.
+* **Idiomas:** Inglés técnico intermedio para lectura y documentación técnica.
 
 ---
 
 ## ✉️ Contacto
 
-* **LinkedIn:** [www.linkedin.com/in/jose-castillo-fuenmayor]
-* **Portfolio:** []
+* **LinkedIn:** [www.linkedin.com/in/jose-castillo-fuenmayor](https://www.linkedin.com/in/jose-castillo-fuenmayor)
+* **GitHub:** [https://github.com/CastilloFJ](https://github.com/CastilloFJ) 
 
 > "La programación, al igual que la química, se trata de entender cómo interactúan los elementos para crear algo nuevo y funcional."
