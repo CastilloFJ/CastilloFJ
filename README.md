@@ -26,8 +26,8 @@ Soy un **profesor de química** en transición al mundo del desarrollo de softwa
 ### 🕹️ [Club V.J.](https://github.com/tu-usuario/club-vj)
 **Sistema de gestión para club de videojuegos.** Demo funcional que incluye manejo de inventario de renta, usuarios y lógica de préstamos.
 
-### 📊 [Client Management System](https://github.com/tu-usuario/client-system)
-**Gestor de información de clientes.** Sistema enfocado en la integridad de datos, con funciones para importar registros masivos desde archivos CSV y visualización estructurada.
+### 📊 [biblioteca_project](https://github.com/CastilloFJ/biblioteca_project)
+**Gestor de biblioteca.** Sistema enfocado en la administración y gestión de socios, libros, editoriales y el historial detallado de préstamos utilizando el potente ORM de Django.
 
 ---
 
